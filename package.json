@@ -1,0 +1,19 @@
+{
+  "name": "pbdesk-feedsource-dal",
+  "version": "0.0.1",
+  "description": "Data Access Layer for pbdesk-feedsource-schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PBDeskIO/pbdesk-feedsource-dal.git"
+  },
+  "author": "Pinal Bhatt <self@pbdesk.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PBDeskIO/pbdesk-feedsource-dal/issues"
+  },
+  "homepage": "https://github.com/PBDeskIO/pbdesk-feedsource-dal#readme"
+}
