@@ -18,7 +18,7 @@
   "homepage": "https://github.com/PBDeskIO/pbdesk-feedsource-dal#readme",
   "dependencies": {
     "mongoose": "^4.0.3",
-    "pbdesk-feedsource-schema": "git://github.com/PBDeskIO/pbdesk-schema-feedsource#0.0.5"
+    "pbdesk-feedsource-schema": "git://github.com/PBDeskIO/pbdesk-feedsource-schema#0.0.5"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
