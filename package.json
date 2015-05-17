@@ -21,6 +21,7 @@
     "pbdesk-feedsource-schema": "git://github.com/PBDeskIO/pbdesk-schema-feedsource#0.0.5"
   },
   "devDependencies": {
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "pbdesk-gulp-codereview": "git://github.com/PBDeskIO/pbdesk-gulp-codereview#0.0.1"
   }
 }
